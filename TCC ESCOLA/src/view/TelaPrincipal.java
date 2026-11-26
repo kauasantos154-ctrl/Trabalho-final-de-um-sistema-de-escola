@@ -51,7 +51,6 @@ public class TelaPrincipal extends javax.swing.JFrame {
         jLabel1.setText("jLabel1");
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setPreferredSize(new java.awt.Dimension(1100, 700));
 
         painelConteudo.setBackground(new java.awt.Color(15, 25, 42));
         painelConteudo.setForeground(new java.awt.Color(15, 23, 42));
